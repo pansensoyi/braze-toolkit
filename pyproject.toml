@@ -9,7 +9,7 @@ description = "Typed, batch-aware Python client for the Braze REST API (users/tr
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.9"
-authors = [{ name = "Ian Pansensoy" }]
+authors = [{ name = "Ian Pansensoy", email = "ipansensoy@gmail.com" }]
 dependencies = ["httpx>=0.24"]
 
 [project.optional-dependencies]
